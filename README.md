@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi!
+
+Perkenalkan saya **Nadya Ilma Pratiwi**.<br>
+
+Saya merupakan mahasiswa semester 5 di Program Studi Sistem Informasi. Saat ini saya sedang belajar di Bangkit Academy untuk mengembangkan kemampuan saya di bidang Machine Learnig. 
+
+
 
 <!--
 **naddyaaa/naddyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
